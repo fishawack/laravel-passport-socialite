@@ -1,12 +1,12 @@
 {
-    "name": "schedula/laravel-passport-socialite",
+    "name": "fishawack/laravel-passport-socialite",
     "description": "The missing laravel passport feature for social authentication",
     "keywords" : [ "laravel", "social-login", "laravel-passport", "passport", "laravel-socialite", "socialite"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Anand Siddharth",
-            "email": "anandsiddharth21@gmail.com"
+            "name": "Gee=Him Siu",
+            "email": "geehim.siu@fishawack.com"
         }
     ],
     "require": {
